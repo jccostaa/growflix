@@ -1,4 +1,12 @@
-# growflix
+# GrowFlix
+<img width="944" alt="image" src="https://raw.githubusercontent.com/jccostaa/growflix/main/src/images/tela1-growflix.JPG">
+<img width="947" alt="image" src="https://raw.githubusercontent.com/jccostaa/growflix/main/src/images/tela2-growflix.JPG">
+
+[Growflix](https://growflix-jean-costa.vercel.app/) é uma aplicação web para streaming de vídeos e podcasts da GrowDev, onde os usuários podem assistir a uma variedade de conteúdos educativos e informativos.
+O deploy desta aplicação foi realizado no Vercel:
+
+
+<img width="947" alt="image" src="https://raw.githubusercontent.com/jccostaa/growflix/main/src/images/tela3-growflix.JPG">
 
 ## Recursos Principais
 
